@@ -1,8 +1,8 @@
 {
-    "name": "mugoweb/codemirror",
-    "description": "eZ Datatype to allow editing HTML code",
+    "name": "se7enxweb/codemirror",
+    "description": "eZ Datatype to allow editing HTML code within content objects with specially designed codemirror content editor.",
     "type": "ezpublish-legacy-extension",
-    "license": "GPL-2.0",
+    "license": "GPL-2.0-or-later",
     "authors": [
         {
             "name": "Philipp Kamps",
@@ -11,7 +11,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "ezsystems/ezpublish-legacy-installer": "*"
+        "se7enxweb/ezpublish-legacy-installer": "*"
     },
     "extra": {
         "ezpublish-legacy-extension-name": "mugo_codemirror"
