@@ -1,5 +1,5 @@
 {
-    "name": "se7enxweb/codemirror",
+    "name": "se7enxweb/mugo_codemirror",
     "description": "eZ Publish extension based solution to allow editing HTML code within content objects with specially designed codemirror content editor.",
     "type": "ezpublish-legacy-extension",
     "license": "GPL-2.0-or-later",
